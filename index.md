@@ -1,5 +1,3 @@
-![U Eat Logo](Logo.PNG)
-
 # Documents:
 1. [**Requirements**](HW1-Requirements.pdf)
 	- The requirements document 
