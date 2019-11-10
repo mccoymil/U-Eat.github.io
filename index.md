@@ -1,6 +1,6 @@
 ![U Eat Logo](Logo.PNG)
 
-# Documents
+# Documents:
 1. [*Requirements*](HW1-Requirements.pdf)
 	- The requirements document 
 2. [*Requirements Evaluation*](HW2-EvaluatingRequirements.pdf)
