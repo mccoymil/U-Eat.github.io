@@ -13,7 +13,7 @@
 	attributes. A failure modes analysis is also carried out and diagramed to assist with the
 	selection of the most appropriate architecture. The selected architecture is then validated
 	in relation to common use cases and the implications of its selection is discussed.
-4. [**System Design**]()
+4. [**System Design**](HW4-Design.pdf)
 	- The System Design document discusses the aspects of coupling and cohesion involved in with
 	our implementation packaging, as well as our approach to the development model and potentially 
 	useful design patterns. Several interface contracts are described and exception handling of 
